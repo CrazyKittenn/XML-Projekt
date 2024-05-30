@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<xs:schema xmlns:xs="http://www.w3.org/2001/XMLSchema">
+    <xs:element name="Reviews">
+        <xs:complexType>
+            <xs:sequence>
+                <xs:element name="Review" minOccurs="0" maxOccurs="unbounded">
+                    <xs:complexType>
+                        <xs:sequence>
+                            <xs:element name="Title" type="xs:string" />
+                            <xs:element name="Image" type="xs:string" />
+                            <xs:element name="Description" type="xs:string" />
+                            <xs:element name="Platforms" type="xs:string" />
+                            <xs:element name="ReleaseDate" type="xs:date" />
+                            <xs:element name="Developer" type="xs:string" />
+                            <xs:element name="Publisher" type="xs:string" />
+                            <xs:element name="Genres" type="xs:string" />
+                            <xs:element name="Scores" minOccurs="1" maxOccurs="1">
+                                <xs:complexType>
+                                    <xs:sequence>
+                                        <xs:element name="Score" type="xs:string" minOccurs="2"
+                                            maxOccurs="2" />
+                                    </xs:sequence>
+                                </xs:complexType>
+                            </xs:element>
+                        </xs:sequence>
+                    </xs:complexType>
+                </xs:element>
+            </xs:sequence>
+        </xs:complexType>
+    </xs:element>
+
+</xs:schema>

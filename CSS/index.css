@@ -1,0 +1,10 @@
+.score {
+    width: 75px;
+    height: 75px;
+    margin: auto;
+    align-content: center;
+}
+
+td.tdWidth {
+    width: 25%;
+}

@@ -1,0 +1,18 @@
+h1 {
+    margin: 20px;
+}
+
+.score {
+    font-size: large;
+    font-weight: bold;
+    width: 75px;
+    height: 75px;
+    margin: auto;
+    text-align: center;
+    vertical-align: middle;
+    line-height: 75px;
+}
+
+.descriptionMargin {
+    margin: 20px;
+}

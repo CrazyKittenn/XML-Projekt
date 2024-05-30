@@ -1,0 +1,179 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Reviews>
+    <Review>
+        <Title>Hollow Knight</Title>
+        <Image>Images/Hollow_Knight.png</Image>
+        <Description>Hollow Knight is a 2D action-adventure game with an emphasis on traditional 2D
+            animation and skillful gameplay. Journey to Hallownest, a vast and ancient underground
+            kingdom inhabited by a bizarre collection of insects and monsters. Players will forge
+            their own path as they explore ruined cities, forests of fungus, temples of bone and
+            other fantastic lands, all on their way to uncovering an ancient mystery.</Description>
+        <Platforms>PC Wii U Nintendo Switch PlayStation 4 Xbox One</Platforms>
+        <ReleaseDate>2018-07-12</ReleaseDate>
+        <Developer>Team Cherry</Developer>
+        <Publisher>Team Cherry</Publisher>
+        <Genres>Metroidvania</Genres>
+        <Scores>
+            <Score>90</Score>
+            <Score>9.1</Score>
+        </Scores>
+    </Review>
+    <Review>
+        <Title>Batman: Arkham Knight</Title>
+        <Image>Images/Batman_Arkham_Knight.png</Image>
+        <Description>Batman confronts the ultimate threat against the city he has been sworn to
+            protect. The Scarecrow returns to congeal an imposing array of super villains, including
+            The Penguin, Two-Face and Harley Quinn, to summarily destroy The Dark Knight. The game
+            introduces Rocksteady's uniquely-designed imagining of the Batmobile drivable for the
+            first time in the franchise. Batman: Arkham Knight offers gamers a complete Batman
+            experience as they rip through the streets and soar across the skyline of the iconic
+            Gotham City.</Description>
+        <Platforms>PlayStation 4 Xbox One PC Nintendo Switch</Platforms>
+        <ReleaseDate>2015-06-23</ReleaseDate>
+        <Developer>Rocksteady Studios</Developer>
+        <Publisher>Warner Bros. Interactive Entertainment</Publisher>
+        <Genres>Open-World Action</Genres>
+        <Scores>
+            <Score>87</Score>
+            <Score>8.1</Score>
+        </Scores>
+    </Review>
+    <Review>
+        <Title>DiRT Rally 2.0</Title>
+        <Image>Images/Dirt_Rally_2.0.jpg</Image>
+        <Description>DiRT Rally 2.0 dares you to carve your way through a selection of iconic rally
+            locations from across the globe, in the most powerful off-road vehicles ever made,
+            knowing that the smallest mistake could end your stage. You will need to rely on your
+            instincts with the most immersive and truly focused off-road experience yet, including a
+            new authentic handling model, tyre choice and surface deformation. Power your rally car
+            through real-life off-road environments in New Zealand, Argentina, Spain, Poland,
+            Australia and the USA, with only your co-driver and instincts to guide you. Race on
+            eight official circuits from the FIA World Rallycross championship, complete with
+            licensed Supercars and support series. Develop your team and cars around race
+            strategies, and progress through a varied selection of Events and Championships in both
+            a single player Career Campaign and a competitive online environment.</Description>
+        <Platforms>PlayStation 4 PC Xbox One</Platforms>
+        <ReleaseDate>2019-02-26</ReleaseDate>
+        <Developer>Codemasters</Developer>
+        <Publisher>Codemasters</Publisher>
+        <Genres>Auto Racing Sim</Genres>
+        <Scores>
+            <Score>84</Score>
+            <Score>6.3</Score>
+        </Scores>
+    </Review>
+    <Review>
+        <Title>Wolfenstein: The New Order</Title>
+        <Image>Images/Wolfenstein_The_New_Order.jpg</Image>
+        <Description>1946: Europe. World War II rages on across Europe. Where the Allies once
+            pressed advantage, the Nazi forces have turned the tide in dramatic fashion behind the
+            technologically advanced war machine of General Wilhelm Strasse, aka Deathshead. When a
+            final Allied assault on Deathshead's compound fails, the Allies’ greatest hope falls
+            with it. 1960: Europe. The war is over. And the Nazis are triumphant victors. Using
+            unrelenting force and brutal intimidation, the Nazis have brought even the most powerful
+            nations to their knees. The Nazi regime now rules the globe with an iron fist. You are
+            Captain B.J. Blazkowicz, the American War Hero. After delving into this world of
+            darkness, you must launch an impossible counter-offensive against the monstrous Nazi
+            regime. Only you dare stand up against an unstoppable army of Nazi robots and hulking
+            Super Soldiers. Only you can stop Deathshead. Only you can rewrite history.</Description>
+        <Platforms>PlayStation 3 PC Xbox 360 PlayStation 4 Xbox One</Platforms>
+        <ReleaseDate>2014-05-20</ReleaseDate>
+        <Developer>MachineGames</Developer>
+        <Publisher>Bethesda Softworks</Publisher>
+        <Genres>FPS</Genres>
+        <Scores>
+            <Score>79</Score>
+            <Score>8.1</Score>
+        </Scores>
+    </Review>
+    <Review>
+        <Title>Titanfall 2</Title>
+        <Image>Images/Titanfall_2.jpg</Image>
+        <Description>In single player, Titanfall 2 delivers a crafted experience that explores the
+            unique bond between man and machine. Playable offline, the single player campaign in
+            Titanfall 2 lets fans step out onto The Frontier as a Militia rifleman with aspirations
+            of becoming an elite Pilot. Stranded behind enemy lines and facing overwhelming odds,
+            players must team up with a veteran Titan to uphold a mission they were never meant to
+            carry out. In multiplayer, Respawn is continuing to evolve their gameplay to provide a
+            more robust experience that delivers expanded depth and variety that includes six new
+            Titans, deeper Pilot abilities, more customization options, and a robust progression
+            system that is sure to satisfy fans.</Description>
+        <Platforms>Xbox One PC PlayStation 4</Platforms>
+        <ReleaseDate>2016-10-28</ReleaseDate>
+        <Developer>Respawn Entertainment</Developer>
+        <Publisher>Electronic Arts</Publisher>
+        <Genres>FPS</Genres>
+        <Scores>
+            <Score>89</Score>
+            <Score>8.6</Score>
+        </Scores>
+    </Review>
+    <Review>
+        <Title>Assassin's Creed IV: Black Flag</Title>
+        <Image>Images/ACBF.png</Image>
+        <Description>The year is 1715. Pirates rule the waters of the Caribbean and have established
+            a lawless Republic. Among these outlaws is a lethal young captain named Edward Kenway.
+            His notorious exploits earn the respect of legends like Blackbeard, but draw him into an
+            ancient war that may destroy everything the pirates have built for themselves.</Description>
+        <Platforms>PlayStation 4 Xbox 360 PC Wii U PlayStation 3 Xbox One</Platforms>
+        <ReleaseDate>2013-10-29</ReleaseDate>
+        <Developer>Ubisoft</Developer>
+        <Publisher>Ubisoft</Publisher>
+        <Genres>Open-World Action</Genres>
+        <Scores>
+            <Score>88</Score>
+            <Score>8.2</Score>
+        </Scores>
+    </Review>
+    <Review>
+        <Title>Cuphead</Title>
+        <Image>Images/Cuphead.png</Image>
+        <Description>Cuphead is a classic run and gun action game primarily focused on boss battles.
+            Inspired by the cartoons of the 1930s, the visuals and audio are carefully created with
+            the same techniques of the era, i.e. traditional cel animation (hand drawn &amp; hand
+            inked), watercolor backgrounds, and original jazz recordings. Play as Cuphead or Mugman
+            (in single player or co-op) as you traverse strange worlds, acquire new weapons, learn
+            powerful super moves, and discover hidden secrets.</Description>
+        <Platforms>Xbox One PC Nintendo Switch PlayStation 4</Platforms>
+        <ReleaseDate>2017-09-29</ReleaseDate>
+        <Developer>Studio MDHR</Developer>
+        <Publisher>Studio MDHR</Publisher>
+        <Genres>2D Platformer</Genres>
+        <Scores>
+            <Score>86</Score>
+            <Score>8.5</Score>
+        </Scores>
+    </Review>
+    <Review>
+        <Title>The Messenger</Title>
+        <Image>Images/The_Messenger.png</Image>
+        <Description>As a demon army besieges his village, a young ninja ventures through a cursed
+            world, to deliver a scroll paramount to his clan's survival. What begins as a classic
+            action platformer soon unravels into an expansive time-traveling adventure full of
+            thrills, surprises, and humor.</Description>
+        <Platforms>PC PlayStation 4 Xbox One Nintendo Switch</Platforms>
+        <ReleaseDate>2018-08-30</ReleaseDate>
+        <Developer>Sabotage Studio</Developer>
+        <Publisher>Devolver Digital</Publisher>
+        <Genres>Metroidvania</Genres>
+        <Scores>
+            <Score>86</Score>
+            <Score>8.4</Score>
+        </Scores>
+    </Review>
+</Reviews>
+
+<!-- <Review>
+    <Title></Title>
+    <Image>Images/</Image>
+    <Description></Description>
+    <Platforms></Platforms>
+    <ReleaseDate></ReleaseDate>
+    <Developer></Developer>
+    <Publisher></Publisher>
+    <Genres></Genres>
+    <Scores>
+        <Score></Score>
+        <Score></Score>
+    </Scores>
+</Review> -->
