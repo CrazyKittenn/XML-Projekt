@@ -139,10 +139,10 @@ if (file_exists("reviews.xml")) {
                 } else {
                     $endIndex = 5;
                 }
-            }
-            if ($index > $numberOfReviews - 4) {
-                $startIndex = $numberOfReviews - 5;
-                $endIndex = $numberOfReviews;
+                if ($index > $numberOfReviews - 4) {
+                    $startIndex = $numberOfReviews - 5;
+                    $endIndex = $numberOfReviews;
+                }
             }
             for ($i = $startIndex; $i < $endIndex; $i++) {
                 $displayIndex = $i + 1;
